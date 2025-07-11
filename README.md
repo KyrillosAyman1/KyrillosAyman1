@@ -15,10 +15,18 @@
 
 ---
 
+## 💙 Proud Flutter Developer
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWjF9zQ4CTktab8HQN/giphy.gif" height="120" alt="Flutter Animated Logo"/>
+</p>
+
+---
+
 ## 🧑‍💻 About Me
 
 <picture> 
-  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3cjJtaXByYnBrdGZ1YWNtdG14NHlqamd0YWp1YWFxenh1OHFncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/NiwZ9THiCOodYySoSh/giphy.gif" width="300px" />
+  <img align="right" src="https://i.giphy.com/media/NiwZ9THiCOodYySoSh/giphy.gif" width="300px" />
 </picture>
 
 - 🔭 I’m currently working on **Flutter Projects**  
@@ -26,14 +34,6 @@
 - 💼 Open for **freelance**, **internships** & **collaborations**  
 - 📫 Reach me at: **kero40054@gmail.com**  
 - ⚽ Fun fact: I debug faster than I run 😆  
-
----
-
-## 💙 Proud Flutter Developer
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Pl7U6z0wQ6CSq/giphy.gif" height="120" alt="Flutter Animated Logo"/>
-</p>
 
 ---
 
@@ -70,7 +70,11 @@
 ## 💻 My Favorite IDEs
 
 <p align="center">
-  <img src="https://skills-icons.vercel.app/api/icons?i=vscode,netbeans,visualstudio,androidstudio,codeblocks" alt="My IDEs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" title="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" title="VS Community"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Code::Blocks_logo.png" height="40" title="Code::Blocks"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Apache_NetBeans_Logo.svg" height="40" title="NetBeans"/>
 </p>
 
 ---
