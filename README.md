@@ -32,7 +32,7 @@
 ## 💙 Proud Flutter Developer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsXav/itsXav/main/assets/flutter-dev.gif" height="120" alt="Animated Flutter Logo"/>
+  <img src="https://media.giphy.com/media/Pl7U6z0wQ6CSq/giphy.gif" height="120" alt="Flutter Animated Logo"/>
 </p>
 
 ---
