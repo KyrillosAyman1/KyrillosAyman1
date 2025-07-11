@@ -1,22 +1,22 @@
 <h1 align="center">Hi there, I'm Kyrillos Ayman 👋</h1>
-<h3 align="center">💻 Flutter Developer | 🎓 IT Student | 🎨 Graphic Designer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kyrillosayman1&label=Profile%20views&color=0e75b6&style=flat" alt="kyrillosayman1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Flutter+Developer;IT+Student;Graphic+Designer;Problem+Solver+%F0%9F%A4%93;Always+Learning+New+Things+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Flutter** and building cross-platform mobile apps  
-- 👨‍💻 All of my projects are available on [My GitHub Repos](https://github.com/KyrillosAyman1?tab=repositories)  
-- ✉️ How to reach me: **kero40054@gmail.com**  
-- ⚽ Fun fact: **I Love Football and problem-solving!**
+- 🔭 I’m currently working on **Flutter Projects**  
+- 🌱 Learning **Backend & Firebase Integration**  
+- 💼 Open for **Internships** and **Collaborations**  
+- 📫 Reach me at: **kero40054@gmail.com**  
+- ⚽ Fun fact: I play football like a Dev ⛹️‍♂️⚽
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/keroayman2003" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -27,36 +27,33 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,cpp,java,python,mysql,git,figma,photoshop,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KyrillosAyman1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyrillosAyman1&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KyrillosAyman1&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyrillosAyman1&layout=compact&theme=radical" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyrillosAyman1&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyrillosAyman1&theme=radical" />
 </p>
 
 ---
 
-<p align="center">🚀 Let's build something awesome together!</p>
+## 🌀 Just for Fun
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
