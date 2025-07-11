@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">
-  Hi there, I'm <span style="color:#00d9ff;">Kyrillos Ayman</span> 👋
+  Hello, I'm <span style="color:#00d9ff;">Kyrillos Ayman</span> 👋
 </h1>
 
 <!-- SUBTITLE -->
