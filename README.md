@@ -58,15 +58,14 @@
 </p>
 
 ---
-
-## 💻 My Favorite IDEs
+ 💻 My Favorite IDEs
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" title="Android Studio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" title="VS Community"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Code::Blocks_logo.png" height="40" title="Code::Blocks"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Apache_NetBeans_Logo.svg" height="40" title="NetBeans"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="vscode" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="android-studio" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="vs" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Code::Blocks_logo.png" title="Code::Blocks" alt="codeblocks" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Apache_NetBeans_Logo.svg" title="NetBeans" alt="netbeans" width="50" height="50"/>
 </p>
 
 ---
