@@ -15,14 +15,6 @@
 
 ---
 
-## 💙 Proud Flutter Developer
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWjF9zQ4CTktab8HQN/giphy.gif" height="120" alt="Flutter Animated Logo"/>
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 <picture> 
@@ -75,6 +67,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" title="VS Community"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Code::Blocks_logo.png" height="40" title="Code::Blocks"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Apache_NetBeans_Logo.svg" height="40" title="NetBeans"/>
+</p>
+
+---
+
+## 💙 Proud Flutter Developer
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWjF9zQ4CTktab8HQN/giphy.gif" height="120" alt="Flutter Animated Logo"/>
 </p>
 
 ---
