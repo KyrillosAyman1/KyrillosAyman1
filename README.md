@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Flutter+Developer+🚀;🎓+IT+Student;🎨+Graphic+Designer;💡+Problem+Solver;🔥+Always+Learning" />
 </p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -25,6 +26,14 @@
 - 💼 Open for **freelance**, **internships** & **collaborations**  
 - 📫 Reach me at: **kero40054@gmail.com**  
 - ⚽ Fun fact: I debug faster than I run 😆  
+
+---
+
+## 💙 Proud Flutter Developer
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsXav/itsXav/main/assets/flutter-dev.gif" height="120" alt="Animated Flutter Logo"/>
+</p>
 
 ---
 
