@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrillosayman1&label=Profile%20views&color=0e75b6&style=flat" alt="kyrillosayman1" /> </p>
 
- <p align="center">
-    <a href="https://www.google.com.eg/search?q=ahmed+hemeda"> <!-- Google Me -->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=2000"> <!-- Text -->
    </a>
 - 🌱 I’m currently learning **Flutter**
 
