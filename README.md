@@ -2,13 +2,15 @@
 <h1 align="center">
   Hi there, I'm <span style="color:#00d9ff;">Kyrillos Ayman</span> 👋
 </h1>
+
+<!-- SUBTITLE ثابت -->
 <h3 align="center">
   🚀 Flutter Developer | 🎓 IT Student | 🎨 Graphic Designer
 </h3>
 
-<!-- TYPING ANIMATION -->
+<!-- ✅ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=💡+Problem+Solver;🔥+Always+Learning;🌱+Exploring+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;🎓+IT+Student;🎨+Graphic+Designer;💡+Problem+Solver;🔥+Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,29 +25,29 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/keroayman2003" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/kyrillos-ayman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
   </a>
   <a href="https://www.facebook.com/share/12LVimewGEi/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" width="40" />
   </a>
   <a href="https://instagram.com/kyrillos_ayman_22" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" width="40" />
   </a>
   <a href="https://codeforces.com/profile/kero22" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="40" width="40" />
   </a>
 </p>
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,cpp,c,java,python,mysql,git,linux,figma,photoshop" />
