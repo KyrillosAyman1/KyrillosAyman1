@@ -84,6 +84,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyrillosAyman1&theme=tokyonight&hide_border=true" />
 </p>
 
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KyrillosAyman1&theme=onestar&row=1&column=7" alt="github trophies" />
+</p>
+
 ---
 
 ## 🎨 Just for Style 😎
