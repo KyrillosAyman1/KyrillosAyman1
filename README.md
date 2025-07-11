@@ -1,25 +1,29 @@
+<!-- HEADER -->
 <h1 align="center">
   Hi there, I'm <span style="color:#00d9ff;">Kyrillos Ayman</span> 👋
 </h1>
+<h3 align="center">
+  🚀 Flutter Developer | 🎓 IT Student | 🎨 Graphic Designer
+</h3>
 
-<!-- ✅ أنيميشن كتابة تحت الاسم (شغال 100%) -->
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=🚀+Flutter+Developer;🎓+IT+Student;🎨+Graphic+Designer;💡+Problem+Solver;🔥+Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=💡+Problem+Solver;🔥+Always+Learning;🌱+Exploring+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
-## ✨ About Me
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Flutter Projects**
-- 🌱 Learning **Firebase** and Backend Integration
-- 💼 Open for freelance, internships, and collaborations
-- 📫 Reach me at: **kero40054@gmail.com**
-- ⚽ Fun fact: I debug faster than I run 😆
+- 🔭 I’m currently working on **Flutter Projects**  
+- 🌱 Learning **Firebase** & **Backend Integration**  
+- 💼 Open for **freelance**, **internships** & **collaborations**  
+- 📫 Reach me at: **kero40054@gmail.com**  
+- ⚽ Fun fact: I debug faster than I run 😆  
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://twitter.com/keroayman2003" target="_blank">
@@ -27,6 +31,9 @@
   </a>
   <a href="https://www.linkedin.com/in/kyrillos-ayman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/share/12LVimewGEi/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://instagram.com/kyrillos_ayman_22" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -38,7 +45,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,cpp,c,java,python,mysql,git,linux,figma,photoshop" />
@@ -46,7 +53,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KyrillosAyman1&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
@@ -60,6 +67,10 @@
 ---
 
 ## 🌀 Just For Style 😎
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0077ff&height=120&section=footer"/>
