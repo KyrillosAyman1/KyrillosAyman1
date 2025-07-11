@@ -102,3 +102,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0077ff&height=120&section=footer"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
