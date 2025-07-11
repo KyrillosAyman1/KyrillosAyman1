@@ -3,19 +3,23 @@
   Hi there, I'm <span style="color:#00d9ff;">Kyrillos Ayman</span> 👋
 </h1>
 
-<!-- SUBTITLE ثابت -->
+<!-- SUBTITLE -->
 <h3 align="center">
   🚀 Flutter Developer | 🎓 IT Student | 🎨 Graphic Designer
 </h3>
 
-<!-- ✅ TYPING ANIMATION -->
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;🎓+IT+Student;🎨+Graphic+Designer;💡+Problem+Solver;🔥+Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Flutter+Developer+🚀;🎓+IT+Student;🎨+Graphic+Designer;💡+Problem+Solver;🔥+Always+Learning" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
+
+<picture> 
+  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3cjJtaXByYnBrdGZ1YWNtdG14NHlqamd0YWp1YWFxenh1OHFncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/NiwZ9THiCOodYySoSh/giphy.gif" width="300px" />
+</picture>
 
 - 🔭 I’m currently working on **Flutter Projects**  
 - 🌱 Learning **Firebase** & **Backend Integration**  
@@ -27,21 +31,21 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://twitter.com/keroayman2003" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kyrillos-ayman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/12LVimewGEi/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/kyrillos_ayman_22" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/kero22" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
+<p align="center">                        
+  <a href="https://codeforces.com/profile/kero22" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="60" width="60" />
+  </a>&emsp;
+  <a href="https://www.facebook.com/share/12LVimewGEi/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="60" width="60" />
+  </a>&emsp;
+  <a href="https://www.linkedin.com/in/kyrillos-ayman" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="60" width="60" />
+  </a>&emsp;
+  <a href="https://twitter.com/keroayman2003" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="60" width="60" />
+  </a>&emsp;
+  <a href="https://instagram.com/kyrillos_ayman_22" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="60" width="60" />
   </a>
 </p>
 
@@ -68,7 +72,7 @@
 
 ---
 
-## 🌀 Just For Style 😎
+## 🎨 Just for Style 😎
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
