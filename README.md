@@ -10,7 +10,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Flutter+Developer+🚀;I'm+Kyrillos+Ayman;🎓+IT+Student;🎨+Graphic+Designer;💡+Problem+Solver;🔥+Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Flutter+Developer+🚀;Hi+There+👋;I'm+Kyrillos+Ayman;🎓+IT+Student;🎨+Graphic+Designer;💡+Problem+Solver;🔥+Always+Learning" />
 </p>
 
 ---
