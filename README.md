@@ -21,11 +21,18 @@
   <img align="right" src="https://i.giphy.com/media/NiwZ9THiCOodYySoSh/giphy.gif" width="300px" />
 </picture>
 
-- 🔭 I’m currently working on **Flutter Projects**  
-- 🌱 Learning **Firebase** & **Backend Integration**  
-- 💼 Open for **freelance**, **internships** & **collaborations**  
-- 📫 Reach me at: **kero40054@gmail.com**  
-- ⚽ Fun fact: I debug faster than I run 😆  
+
+
+Flutter Developer passionate about building clean, scalable, and real-world mobile applications using Flutter & Dart.
+
+💡 Interested in:
+- Flutter Development
+- Firebase & REST APIs
+- Clean Architecture
+- State Management
+- UI/UX Design
+
+🚀 Always learning and building new projects. 
 
 ---
 
